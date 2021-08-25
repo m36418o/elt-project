@@ -1,4 +1,5 @@
-# ELT Project
+# Videogame Data ELT
+## Summary
 This project encompasses the prior modules on PANDAS, Python, and MongoDB together to create our own little database.
 This does not contain any analytical pieces and purely to showcase our ability in creating a database with available resources.
 ## File Contents
